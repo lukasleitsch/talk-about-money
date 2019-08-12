@@ -42,6 +42,7 @@
 
 ## Riester-Rente
 - [Die Riester-Rente – Wie sie funktioniert, was Du dabei beachten musst und warum ein Abschluss für Dich Sinn machen kann](https://finanzglueck.de/riester-rente/) (Finanzglück)
+- [Riester-Rente: Warum wird das Offensichtliche übersehen?](https://www.finanzkueche.de/riester-rente/) (FinanzKüche)
 
 ## Passives Einkommen
 - [Das Märchen vom passiven Einkommen](https://www.finanzkueche.de/passives-einkommen/) (FinanzKüche)
