@@ -11,9 +11,9 @@
 - [Kinder](#kinder)
 - [ETFs](#etfs)
 - [Riester-Rente](#riester-rente)
+- [Passives Einkommen](#passives-einkommen)
 - [Nachhaltigkeit](#nachhaltigkeit)
 - [Bücher](#bücher)
-- [Videos](#videos)
 - [License](#license)
 
 ## Grundlagen
