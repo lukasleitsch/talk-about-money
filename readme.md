@@ -11,6 +11,7 @@
 - [Kinder](#kinder)
 - [ETFs](#etfs)
 - [Riester-Rente](#riester-rente)
+- [Nachhaltigkeit](#nachhaltigkeit)
 - [Bücher](#bücher)
 - [Videos](#videos)
 - [License](#license)
@@ -44,6 +45,10 @@
 
 ## Passives Einkommen
 - [Das Märchen vom passiven Einkommen](https://www.finanzkueche.de/passives-einkommen/) (FinanzKüche)
+
+## Nachhaltigkeit
+- [Nachhaltige Geldanlage: ETFs, Ökofonds, Windparks & Co.](https://www.youtube.com/watch?v=_VwRxGDbDQ4) (Finanztip
+, YouTube)
 
 ## Bücher
 - [Das Finanzwesir-Buch](https://www.finanzwesir.com/angebote/finanzbuch)
