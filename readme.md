@@ -36,6 +36,7 @@
 ## Kinder
 - [ETF-Sparplan für Kinder: So läuft´s in der Finanzglück-Familie](http://finanzglueck.de/etf-sparplan-kinder/) (Finanzglück)
 - [Rabeneltern? Warum mein kleiner Sohn kein eigenes Depot bekommt](https://www.finanzkueche.de/sparen-kind/) (FinanzKüche)
+- [Wie mein einjähriger Sohn zum Aktionär wurde](https://finanzglueck.de/wie-mein-einjaehriger-sohn-zum-aktionaer-wurde/) (Finanzglück)
 
 ## ETFs
 - [ETF: Die Ein-Fonds-Lösung](https://www.finanzwesir.com/blog/msci-acwi-imi-fm) (Finanzwesir)
