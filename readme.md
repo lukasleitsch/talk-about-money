@@ -14,6 +14,7 @@
 - [Passives Einkommen](#passives-einkommen)
 - [Nachhaltigkeit](#nachhaltigkeit)
 - [Bücher](#bücher)
+- [YouTube-Kanäle](#youtube-kanaele)
 - [License](#license)
 
 ## Grundlagen
@@ -52,6 +53,10 @@
 
 ## Bücher
 - [Das Finanzwesir-Buch](https://www.finanzwesir.com/angebote/finanzbuch)
+
+## YouTube-Kanäle
+- [Finanzfluss](https://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ]
+- [Finanztip][https://www.youtube.com/channel/UC-muQylmRx61Mt6U1oDSEVA)
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
