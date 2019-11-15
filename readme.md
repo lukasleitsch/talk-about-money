@@ -1,6 +1,6 @@
 # Talk About Money
 
-> Eine Liste von Artikeln zum Thema Geld.
+> Eine Liste von Artikeln zum Thema Geld. Die Listen soll als Startpunkt dienen, wenn du dich besser um deine Finanzen kümmern willst.
 
 ## Inhalt
 - [Grundlagen](#grundlagen)
