@@ -14,7 +14,7 @@
 - [Passives Einkommen](#passives-einkommen)
 - [Nachhaltigkeit](#nachhaltigkeit)
 - [Bücher](#bücher)
-- [YouTube-Kanäle](#youtube-kanaele)
+- [YouTube-Kanäle](#youtube-kanäle)
 - [License](#license)
 
 ## Grundlagen
