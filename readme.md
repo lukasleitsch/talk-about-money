@@ -31,6 +31,7 @@
 
 ### Mieten oder Kaufen
 - [„Aber mieten ist auch scheiße“ – Warum wir uns für ein Eigenheim entschieden haben](https://finanzglueck.de/eigenheim/) (Finanzglück)
+- [Kaufen oder Mieten: Was lohnt sich eher?](https://youtu.be/pEMudWHiXh0) (Finanzfluss, YouTube)
 
 ## Kinder
 - [ETF-Sparplan für Kinder: So läuft´s in der Finanzglück-Familie](http://finanzglueck.de/etf-sparplan-kinder/) (Finanzglück)
