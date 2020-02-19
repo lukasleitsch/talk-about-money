@@ -15,7 +15,7 @@
 - [Riester-Rente](#riester-rente)
 - [Passives Einkommen](#passives-einkommen)
 - [Nachhaltigkeit](#nachhaltigkeit)
-- [Software](#software)
+- [Tools](#tools)
 - [Bücher](#bücher)
 - [YouTube-Kanäle](#youtube-kanäle)
 - [License](#license)
@@ -65,7 +65,8 @@
 ## Nachhaltigkeit
 - [Nachhaltige Geldanlage: ETFs, Ökofonds, Windparks & Co.](https://www.youtube.com/watch?v=_VwRxGDbDQ4) (Finanztip, YouTube)
 
-## Software
+## Tools
+- [justETF](https://www.justetf.com/de/)
 - [Portfolio Performance](https://www.portfolio-performance.info/portfolio/)
 
 ## Bücher
