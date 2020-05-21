@@ -80,6 +80,7 @@
 
 ## Bücher
 - [Das Finanzwesir-Buch](https://www.finanzwesir.com/angebote/finanzbuch)
+- [Madame Moneypenny: Wie Frauen ihre Finanzen selbst in die Hand nehmen können](https://www.amazon.de/gp/product/3499633744)
 
 ## YouTube-Kanäle
 - [Finanzfluss](https://www.youtube.com/channel/UCeARcCUiZg79SQQ-2_XNlXQ)
