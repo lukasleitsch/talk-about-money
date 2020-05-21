@@ -33,7 +33,7 @@
 - [Geld anlegen: Die 5 größten Fehler (und wie es richtig geht)](https://zendepot.de/meine-5-groessten-fehler-die-ich-beim-geld-anlegen-gemacht-habe/) (Zendepot)
 
 ## ETFs
-- [Anleihen ETF: Lohnt sich das Investment?] (https://zendepot.de/anleihen-etf/) (Zendepot)
+- [Anleihen ETF: Lohnt sich das Investment?](https://zendepot.de/anleihen-etf/) (Zendepot)
 - [ETF: Die Ein-Fonds-Lösung](https://www.finanzwesir.com/blog/msci-acwi-imi-fm) (Finanzwesir)
 - [ETF: Die Mischung ist egal](https://www.finanzwesir.com/blog/etf-mischung-egal) (Finanzwesir)
 - [Vanguard ist da! In diese drei ETFs investiere ich mein Erspartes](https://finanzglueck.de/vanguard-etfs/) (Finanzglück)
